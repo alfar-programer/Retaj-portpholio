@@ -49,7 +49,7 @@ const certificates = [
     issuer: 'Meta',
     date: 'December 2023',
     description: 'Comprehensive React development certification covering modern React patterns, hooks, and best practices.',
-    link: '/images/cer1.svg'
+    link: '/images/cer1.jpg'
   },
   {
     title: 'AWS Solutions Architect',
@@ -70,7 +70,7 @@ const certificates = [
     issuer: 'Coursera',
     date: 'September 2023',
     description: 'Advanced Python programming for data analysis, machine learning, and scientific computing.',
-    link: '/public/images/cer4.svg'
+    link: '/images/cer4.jpg'
   },
  
 ];
