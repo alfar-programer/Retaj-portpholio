@@ -49,28 +49,28 @@ const certificates = [
     issuer: 'Meta',
     date: 'December 2023',
     description: 'Comprehensive React development certification covering modern React patterns, hooks, and best practices.',
-    link: '/public/images/cer1.jpg'
+    link: '/public/images/cer1.svg'
   },
   {
     title: 'AWS Solutions Architect',
     issuer: 'Amazon Web Services',
     date: 'November 2023',
     description: 'Professional certification demonstrating expertise in designing distributed systems on AWS.',
-    link: '/public/images/cer2.jpg'
+    link: '/public/images/cer2.svg'
   },
   {
     title: 'JavaScript Algorithms & Data Structures',
     issuer: 'freeCodeCamp',
     date: 'October 2023',
     description: 'Mastered JavaScript fundamentals, ES6, regular expressions, debugging, and data structures.',
-    link: '/public/images/cer3.jpg'
+    link: '/public/images/cer3.svg'
   },
   {
     title: 'Python for Data Science',
     issuer: 'Coursera',
     date: 'September 2023',
     description: 'Advanced Python programming for data analysis, machine learning, and scientific computing.',
-    link: '/public/images/cer4.jpg'
+    link: '/public/images/cer4.svg'
   },
  
 ];
