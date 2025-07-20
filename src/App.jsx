@@ -56,21 +56,21 @@ const certificates = [
     issuer: 'Amazon Web Services',
     date: 'November 2023',
     description: 'Professional certification demonstrating expertise in designing distributed systems on AWS.',
-    link: '/images/cer2.svg'
+    link: '/images/cer2.jpg'
   },
   {
     title: 'JavaScript Algorithms & Data Structures',
     issuer: 'freeCodeCamp',
     date: 'October 2023',
     description: 'Mastered JavaScript fundamentals, ES6, regular expressions, debugging, and data structures.',
-    link: '/images/cer3.svg'
+    link: '/images/cer3.jpg'
   },
   {
     title: 'Python for Data Science',
     issuer: 'Coursera',
     date: 'September 2023',
     description: 'Advanced Python programming for data analysis, machine learning, and scientific computing.',
-    link: '/images/cer4.svg'
+    link: '/public/images/cer4.svg'
   },
  
 ];
